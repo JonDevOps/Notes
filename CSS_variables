@@ -1,0 +1,10 @@
+// CSS variables are used to manipulate propEERties and values through many css selectors.
+
+// To create a CSS variable add -- and the a name for it.
+// Example --penguin-skin: gray;
+
+// To assign the variable to a css property use the var keyword
+// Example: background-color: var(--penguin-skin);
+
+// To add a fallback value use a ,
+// Example: (var --penguin-skin, black);
