@@ -5,3 +5,5 @@
 // Compress all images.
 
 // minify the css and js files
+
+// Use external CDNs to make parallel http requests without all of them, being from your server
